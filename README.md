@@ -1,4 +1,4 @@
-🛒 Zepto SQL Project
+Zepto SQL Project
 This project contains SQL queries and insights based on a dataset inspired by Zepto — an instant grocery delivery platform. The goal is to analyze product data such as pricing, discount strategies, and value metrics using PostgreSQL.
 
 📊 Key SQL Queries
