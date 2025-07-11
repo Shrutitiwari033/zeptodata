@@ -19,11 +19,11 @@ Categorizing Products (Low, Medium, Bulk)
 Groups products based on weight ranges.
 
 
-###🧰 Tools Used
+### 🧰 Tools Used
 PostgreSQL 17
 pgAdmin 4
 
-###📌 How to Run
+### 📌 How to Run
 Open the .sql file in pgAdmin or any PostgreSQL environment.
 Execute the queries on a table named zepto containing product data.
 Check the query outputs in the result window.
